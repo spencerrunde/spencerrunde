@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **a portfolio for myself**
 
-- 🌱 I’m currently learning: **React and Vue.js**
+- 🌱 I’m currently learning: **React**
 
 - 👨‍💻 Take a look at my portfolio! [portfoliosoon.com](portfoliosoon.com)
 
