@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **React**
 
-- 👨‍💻 Take a look at my portfolio! [portfoliosoon.com](portfoliosoon.com)
+- 👨‍💻 Take a look at my portfolio! [https://spencerrunde.com/](https://spencerrunde.com/)
 
 - 📫 You can reach me at: **spencerrunde@gmail.com**
 
