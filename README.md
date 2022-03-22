@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **a portfolio for myself**
 
-- 🌱 I’m currently learning: **React**
+- 🌱 I’m currently learning: **Framer Motion**
 
 - 👨‍💻 Take a look at my portfolio! [https://spencerrunde.com/](https://spencerrunde.com/)
 
